@@ -43,12 +43,12 @@
 
 | Concluído | Disciplina |
 |:---------:|------------|
-|<ul><li> - [ ] </li></ul> | Circuitos Digitais
-|<ul><li> - [ ] </li></ul> | Engenharia de Software 1
-|<ul><li> - [ ] </li></ul> | [Programação de Computadores 3](https://github.com/henrique-tavares/IFB-Programacao-de-Computadores-3)
-|<ul><li> - [ ] </li></ul> | Psicologia da Educação
-|<ul><li> - [ ] </li></ul> | Sistemas Operacionais
-|<ul><li> - [ ] </li></ul> | Teoria da Computação
+|<ul><li> - [x] </li></ul> | [Circuitos Digitais](https://github.com/henrique-tavares/IFB-Circuitos-Digitais)
+|<ul><li> - [x] </li></ul> | Engenharia de Software 1
+|<ul><li> - [x] </li></ul> | [Programação de Computadores 3](https://github.com/henrique-tavares/IFB-Programacao-de-Computadores-3)
+|<ul><li> - [x] </li></ul> | Psicologia da Educação
+|<ul><li> - [x] </li></ul> | Sistemas Operacionais
+|<ul><li> - [x] </li></ul> | Teoria da Computação
 
 ### 5º Semestre
 
@@ -56,9 +56,9 @@
 |:---------:|------------|
 |<ul><li> - [ ] </li></ul> | Análise de Algoritmos
 |<ul><li> - [ ] </li></ul> | Arquitretura de Computadores 2
-|<ul><li> - [ ] </li></ul> | Banco de Dados 2
+|<ul><li> - [ ] </li></ul> | [Banco de Dados 2](https://github.com/henrique-tavares/IFB-Banco-de-Dados-2)
 |<ul><li> - [ ] </li></ul> | Engenharia de Software 2
-|<ul><li> - [ ] </li></ul> | Inteligência Computacional
+|<ul><li> - [ ] </li></ul> | [Inteligência Computacional](https://github.com/henrique-tavares/IFB-Inteligencia-Computacional)
 |<ul><li> - [ ] </li></ul> | Redes de Computadores 1
 
 ### 6º Semestre
