@@ -39,7 +39,7 @@
 |<ul><li> - [x] </li></ul> | Metodologia Científica
 |<ul><li> - [x] </li></ul> | [Programação de Computadores 2](https://github.com/henrique-tavares/IFB-Programacao-de-Computadores-2)
 
-### 4º Semestre (Atual)
+### 4º Semestre
 
 | Concluído | Disciplina |
 |:---------:|------------|
@@ -54,14 +54,14 @@
 
 | Concluído | Disciplina |
 |:---------:|------------|
-|<ul><li> - [ ] </li></ul> | Análise de Algoritmos
-|<ul><li> - [ ] </li></ul> | Arquitretura de Computadores 2
-|<ul><li> - [ ] </li></ul> | [Banco de Dados 2](https://github.com/henrique-tavares/IFB-Banco-de-Dados-2)
-|<ul><li> - [ ] </li></ul> | Engenharia de Software 2
-|<ul><li> - [ ] </li></ul> | [Inteligência Computacional](https://github.com/henrique-tavares/IFB-Inteligencia-Computacional)
-|<ul><li> - [ ] </li></ul> | Redes de Computadores 1
+|<ul><li> - [x] </li></ul> | [Análise de Algoritmos](https://github.com/henrique-tavares/IFB-Analise-de-Algoritmos)
+|<ul><li> - [x] </li></ul> | Arquitretura de Computadores 2
+|<ul><li> - [x] </li></ul> | [Banco de Dados 2](https://github.com/henrique-tavares/IFB-Banco-de-Dados-2)
+|<ul><li> - [x] </li></ul> | Engenharia de Software 2
+|<ul><li> - [x] </li></ul> | [Inteligência Computacional](https://github.com/henrique-tavares/IFB-Inteligencia-Computacional)
+|<ul><li> - [x] </li></ul> | Redes de Computadores 1
 
-### 6º Semestre
+### 6º Semestre (Atual)
 
 | Concluído | Disciplina |
 |:---------:|------------|
@@ -71,6 +71,7 @@
 |<ul><li> - [ ] </li></ul> | Paradigmas de Programação
 |<ul><li> - [ ] </li></ul> | Redes de Computadores 2
 |<ul><li> - [ ] </li></ul> | Teoria dos Grafos
+|<ul><li> - [ ] </li></ul> | [Processamento Digital de Imagens (Optativa)](https://github.com/henrique-tavares/IFB-Processamento-Digital-de-Imagens)
 
 ### 7º Semestre
 
@@ -78,7 +79,7 @@
 |:---------:|------------|
 |<ul><li> - [ ] </li></ul> | Compiladores
 |<ul><li> - [ ] </li></ul> | Estágio Supervisionado 1
-|<ul><li> - [x] </li></ul> | [Optativa 1 (Introdução à Bioinfomática)](https://github.com/henrique-tavares/IFB-Introducao-a-Bioinformatica)
+|<ul><li> - [x] </li></ul> | [Introdução à Bioinfomática (Optativa)](https://github.com/henrique-tavares/IFB-Introducao-a-Bioinformatica)
 |<ul><li> - [ ] </li></ul> | Optativa 2
 |<ul><li> - [ ] </li></ul> | Projeto de Conclusão de Curso
 |<ul><li> - [ ] </li></ul> | Sistemas Multimedia
